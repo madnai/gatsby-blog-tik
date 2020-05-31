@@ -9,10 +9,13 @@ featuredimage: /img/podcast.png
 tags:
   - flavor
   - tasting
+file: /img/damian-podraza-cv.pdf
 ---
+
+
 ![flavor wheel](/img/podcast.png)
 
-Test damiana
+Test damiana [![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 ## What the updates mean to you
 
